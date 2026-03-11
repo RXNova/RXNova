@@ -1,4 +1,5 @@
-# 🌌 0xRXNova
+<img src="./Banner.png"/>
+
 <p align="left">
 <img src="https://img.shields.io/badge/Focus-Fullstack_Resilience-6E56AF?style=for-the-badge&logo=codeforces&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pipeline-CI%2FCD_Automation-FF4B4B?style=for-the-badge&logo=githubactions&logoColor=white"/>
