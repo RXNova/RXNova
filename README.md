@@ -1,14 +1,8 @@
-`[SESSION]: 0xRXNova`
-`[STATUS]: ENHANCING ARCHITECTURE...`
-
 # 🌌 0xRXNova
-
-**`SENIOR SOFTWARE ENGINEER`** • **`SYSTEM ARCHITECT`** • **`CONTINUOUS DEPLOYMENT`** • **`AGENTIC DRIVEN`**
-
 <p align="left">
-<img src="[https://img.shields.io/badge/Focus-Fullstack_Resilience-6E56AF?style=for-the-badge&logo=codeforces&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/Focus-Fullstack_Resilience-6E56AF%3Fstyle%3Dfor-the-badge%26logo%3Dcodeforces%26logoColor%3Dwhite)" />
-<img src="[https://img.shields.io/badge/Pipeline-CI%2FCD_Automation-FF4B4B?style=for-the-badge&logo=githubactions&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/Pipeline-CI%252FCD_Automation-FF4B4B%3Fstyle%3Dfor-the-badge%26logo%3Dgithubactions%26logoColor%3Dwhite)" />
-<img src="[https://img.shields.io/badge/Intelligence-Agentic_Workflows-00C853?style=for-the-badge&logo=openai&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/Intelligence-Agentic_Workflows-00C853%3Fstyle%3Dfor-the-badge%26logo%3Dopenai%26logoColor%3Dwhite)" />
+<img src="https://img.shields.io/badge/Focus-Fullstack_Resilience-6E56AF?style=for-the-badge&logo=codeforces&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pipeline-CI%2FCD_Automation-FF4B4B?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Intelligence-Agentic_Workflows-00C853?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 ### ⚡ System Diagnostics
